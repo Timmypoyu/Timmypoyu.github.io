@@ -1,5 +1,5 @@
-## List of Art Memo Entries
-1. [David Hockney](https://github.com/Timmypoyu/Timmypoyu.github.io/ArtMemos/Art-Memo-1.md) 
+##List of Art Memo Entries
+1. [David Hockney](Timmypoyu.github.io/ArtMemos/Art-Memo-1.md) 
 
 You can use the [editor on GitHub](https://github.com/Timmypoyu/Timmypoyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
