@@ -12,8 +12,8 @@
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_voyeur.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 #### After he moved to California, Hockney found new passion in portraying nubile men in idyllic settings filled with greeneries and turquoise, iridescent swimming pools reflecting light of the Californian sun. The stylistic shift was radical. Unlike the earlier ones who presented what seems to be an internal chaos, painting such as <> <> are over-saturated and mostly un-textured. Their lines are stringently straight and angular. Hockney’s jewel-toned painting presented a Californian bohemia, void of any worry and concerns. While the young men had their backs turned towards the voyeuring viewers, the sense of intrusion of privacy is significantly lessened. Instead, the paintings and their spaciousness created by the abundance of light welcome the viewers to look at the unobstructed male nudity. The difference in Hockney's subject and technique signifies a change in Hockney’s attitude toward his own sexuality, shifting from censure and confusion to colorful celebration. 
 
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true =250x)
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true =250x)
+![image of painting2](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true =250x)
+![image of painting3](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true =250x)
 ### Perspective 
 ### Layering Reality
 
