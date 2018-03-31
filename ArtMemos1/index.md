@@ -5,7 +5,10 @@
 #### The David Hockney exhibition at the MET took the visitors through the life of Hockney, witnessing his drastic transition in style, medium and subject. From the dark-hued, modernist abstract painting of his earlier career to the jewel-toned, verdant portrayal his backyard in Yorkshire, Hockney employed such a wide range of stylistic and narrative approaches that the visitors must undergo what seems like a secession of Hegelian epochal breakage as they step from a room of paintings encrusted with thick earthy, colors, chaotic smudges and 2-D human figures, to another filled with paintings that are covered with delicate and thin jewel-toned strokes with repeating patterns and straight lines. However, while the paintings’ style substantially changes over time, Hockney’s playfulness with disjointed perspectives, layered reality and empty spaces persisted throughout the exhibition. Homoeroticism remain permeated throughout his works as they transitioned from the central narrative moment in his earlier paintings to a strong undertone in the later ones. 
 
 ### Homosexuality 
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_colgate.jpg?raw=true" width="400">
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_shame.jpg?raw=true" width="400">
+#### David Hockney’s earlier paintings such as <> <>, are esoteric, codified with painted phrases and letters strewn across their surfaces. Color blocks of phallic shapes unyieldingly occupied the canvass, breaking the chaotic lines and imposing itself over the muddied composition. Hockney drew inspirations from the urban environment around him. The gritty subculture of graffiti and anonymous writings in the bathroom stalls exclaim blatantly the society’s failings and personal betrayal. Hockney lend this device to express the unbroachable topics of his sexuality, adding to his painting a shroud of impropriety. Yet, his use of phallic shapes and primary colors stand prominently as if demanding for his passion to be recognized, to burst defiantly out of the shadows where homoeroticism had been subjugated by society’s mores. 
+
+
 
 
 ### Perspective 
