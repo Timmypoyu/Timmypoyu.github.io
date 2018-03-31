@@ -4,4 +4,4 @@ As kanye west says
 > We are living the future so the present
 > is our past.
 
-![image of painting](Timmypoyu.github.io/ArtMemos/IMG_20180223_144609.jpg)
+![image of painting](http://github.com/Timmypoyu/Timmypoyu.github.io/ArtMemos/IMG_20180223_144609.jpg)
