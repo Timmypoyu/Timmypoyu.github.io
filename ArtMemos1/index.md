@@ -6,7 +6,7 @@
 
 ### Homosexuality 
 ![colagte](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_colgate.jpg?raw=true =10x)
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_colgate.jpg?raw=true" width="70">
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_colgate.jpg?raw=true" width="200">
 
 ### Perspective 
 ### Layering Reality
