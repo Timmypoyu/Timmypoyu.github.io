@@ -1,5 +1,4 @@
 # #1 - David Hockney 
-[Return to Homepage](https://timmypoyu.github.io)
 
 ![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_20180223_144609.jpg?raw=true)
 
@@ -11,3 +10,5 @@
 ## 123213123132
 # 12312312312
 ## 1312312313
+
+# [Return to Homepage](https://timmypoyu.github.io)
