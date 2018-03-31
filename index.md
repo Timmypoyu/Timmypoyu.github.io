@@ -1,5 +1,6 @@
 ##List of Art Memo Entries
-1. [David Hockney](Timmypoyu.github.io/ArtMemos) 
+1. [David Hockney](Timmypoyu.github.io/ArtMemo1)
+2. [Like Life: Sculpture, Color and The Body](Timmypoyu.github.io/ArtMemo2)
 
 You can use the [editor on GitHub](https://github.com/Timmypoyu/Timmypoyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,6 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+"And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
 ```markdown
 Syntax highlighted code block
