@@ -1,9 +1,9 @@
 [Return to Homepage](https://timmypoyu.github.io)
 - - - -
-# David Hockney 
+# David Hockney, Sexuality, and Style
 ![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true)
 #### The David Hockney exhibition at the MET took the visitors through the life of Hockney, witnessing his drastic transition in style, medium and subject. From the dark-hued, modernist abstract painting of his earlier career to the jewel-toned, verdant portrayal his backyard in Yorkshire, Hockney employed such a wide range of stylistic and narrative approaches that the visitors must undergo what seems like a secession of Hegelian epochal breakage as they step from a room of paintings encrusted with thick earthy, colors, chaotic smudges and 2-D human figures, to another filled with paintings that are covered with delicate and thin jewel-toned strokes with repeating patterns and straight lines. However, while the paintings’ style substantially changes over time, Hockney’s playfulness with disjointed perspectives, layered reality and empty spaces persisted throughout the exhibition. Homoeroticism remain permeated throughout his works as they transitioned from the central narrative moment in his earlier paintings to a strong undertone in the later ones. 
-
+- - - - 
 ### **Homosexuality** 
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_ejact.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_shame.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
@@ -17,8 +17,7 @@
 ![image of painting2](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction.jpg?raw=true =250x)
 ![image of painting3](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction marked.jpg?raw=true =250x)
 #### Hockney intentionally cut short the background, challenging the viewer's expectation of "natural" or "correct" persepctive.
-[David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html)
-### *Layering Reality*
+[Relevant Article: David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html)
 
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
