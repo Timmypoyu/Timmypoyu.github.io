@@ -21,7 +21,7 @@
 ![image of painting2](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction.jpg?raw=true =250x)
 ![image of painting3](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction marked.jpg?raw=true =250x)
 ###### David Hockney- *American Collectors (Fred & Marcia Weisman)* 1968 - acrylic on canvas, 84x120 in. 
-#### In the example above, Hockney intentionally cuts short the background, challenging the viewer's expectation of "natural" or "correct" perspective. By disrupting the viewer's search of the vanishing point, the painting seems off-balanced and incomplete, enhancing the its unsettled tone, in which nothing in frame is comfortable, resolved, or secured-in-place. Related Article: [David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html)
+#### In the example above, Hockney intentionally cuts short the background, challenging the viewer's expectation of "natural" or "correct" perspective. By disrupting the viewer's search of the vanishing point, the painting seems off-balanced and incomplete, enhancing the its unsettled tone, in which nothing in frame is comfortable, resolved, or secured-in-place. (Related Article: [David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html))
 
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
