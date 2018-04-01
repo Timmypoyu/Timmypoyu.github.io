@@ -2,22 +2,27 @@
 - - - -
 # David Hockney, Sexuality, and Style
 ![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true)
+###### David Hockney Exhibition in The Metropolitan of Arts
 #### The David Hockney exhibition at the MET took the visitors through the life of Hockney, witnessing his drastic transition in style, medium and subject. From the dark-hued, modernist abstract painting of his earlier career to the jewel-toned, verdant portrayal his backyard in Yorkshire, Hockney employed such a wide range of stylistic and narrative approaches that the visitors must undergo what seems like a secession of Hegelian epochal breakage as they step from a room of paintings encrusted with thick earthy, colors, chaotic smudges and 2-D human figures, to another filled with paintings that are covered with delicate and thin jewel-toned strokes with repeating patterns and straight lines. However, while the paintings’ style substantially changes over time, Hockney’s playfulness with disjointed perspectives, layered reality and empty spaces persisted throughout the exhibition. Homoeroticism remain permeated throughout his works as they transitioned from the central narrative moment in his earlier paintings to a strong undertone in the later ones. 
-- - - - 
+
 ### **Homosexuality** 
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_ejact.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_shame.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+###### Left Side: David Hockney - 
+###### Right Side: David Hockney - 
 #### David Hockney’s earlier paintings such as <> <>, are esoteric, codified with painted phrases and letters strewn across their surfaces. Color blocks of phallic shapes unyieldingly occupied the canvass, breaking the chaotic lines and imposing itself over the muddied composition. Hockney drew inspirations from the urban environment around him. The gritty subculture of graffiti and anonymous writings in the bathroom stalls exclaim rebelliously personal betrayal and the society's failings. Hockney lend this device to express the unbroachable topics of his sexuality, adding to his painting a shroud of impropriety. Yet, his use of phallic shapes and primary colors stand prominently as if demanding for his passion to be recognized, to burst defiantly out of the shadows where homoeroticism had been subjugated by society’s mores. In these works, Hockney struggles to come to terms with his homosexuality. Snippets of words and phrases such as “David, just admit it.” and “SHAME” allow the viewer a sneak peek inside Hockney’s psyche , rendering the viewer a voyeur who complete the dynamics of the oppressor and the oppressed. 
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_nubile%20boy.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_voyeur.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+###### Left Side: David Hockney - *The Room, Tarzana* 1967-1977 - acrylic on canvas, 96x96 in.
+###### Right Side: David Hockney - *Man In Shower in Beverly Hills* 1964 - acrylic on canvas, 65 1/2 x 65 1/2 in.
 #### After he moved to California, Hockney found new passion in portraying nubile men in idyllic settings filled with greeneries and turquoise, iridescent swimming pools reflecting light of the Californian sun. The stylistic shift was radical. Unlike the earlier ones who presented what seems to be an internal chaos, painting such as <> <> are over-saturated and mostly un-textured. Their lines are stringently straight and angular. Hockney’s jewel-toned painting presented a Californian bohemia, void of any worry and concerns. While the young men had their backs turned towards the voyeuring viewers, the sense of intrusion of privacy is significantly lessened. Instead, the paintings and their spaciousness created by the abundance of light welcome the viewers to look at the unobstructed male nudity. The difference in Hockney's subject and technique signifies a change in Hockney’s attitude toward his own sexuality, shifting from censure and confusion to colorful celebration. 
 - - - -
 ### **Extra Thoughts** 
 ### *Perspective* 
 ![image of painting2](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction.jpg?raw=true =250x)
 ![image of painting3](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_auction marked.jpg?raw=true =250x)
-#### Hockney intentionally cut short the background, challenging the viewer's expectation of "natural" or "correct" persepctive.
-[Relevant Article: David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html)
+###### David Hockney- *American Collectors (Fred & Marcia Weisman)* 1968 - acrylic on canvas, 84x120 in. 
+#### Hockney intentionally cuts short the background, challenging the viewer's expectation of "natural" or "correct" persepctive. By disrupting the viewer's serach of the vanishing point, the painting seems off-balanced and incomplete, enhancing the painting's unsettled tone, in which nothing in frame is comfortable, resolved, or secured-in-place. Relevant Article: [David Hockney, Contrarian, Shifts Perspective](https://www.nytimes.com/2017/09/05/arts/design/david-hockney-los-angeles-metropolitan-museum-of-art-reverse-perspective.html)
 
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
