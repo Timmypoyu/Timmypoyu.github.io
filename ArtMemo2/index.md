@@ -16,7 +16,7 @@
 
 #### There is indeed a possibility of such danger in Like life, where these artworks becomes merely complacent existence to their collective theme rather than artworks of their own nuances, and contexts. 
 
-#### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
+#### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy and take a sneak peek into the minds of curators. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
 
 #### There are, however, an opposite effect.
 
