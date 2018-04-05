@@ -29,7 +29,7 @@
 
 #### There are, however, an opposite effect.
 
-#### While the instructional elements will exist more or less in the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. The painted windows may portray biblical stories and lessons so the illiterate people of the time could easily understand. Yet, hiding behind the democratization is the power-play of what ideas are to be depicted. Who decides?
+#### While the instructional elements will exist more or less in the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. In the analogy of Gothic cathedrals, the painted windows may portray biblical stories and lessons so the illiterate people of the time could easily understand. Yet, hiding behind the democratization is the power-play of what ideas are to be depicted. Who decides?
 
 #### Underlying Schkeldahl’s eagerness to allow the viewers of art a chance to experience art in their own terms is, perhaps a firm base of trust and confidence in each and their own interpretations. Like Life strives to be easily understood; however, the themes curated underscore an aristocratic power of decision. They are consecrated as the over-arching subject of a collective of distinct artworks, simultaneously making them readily perceivable, and impenetrably over-generalizing and perhaps deceiving.  
 
