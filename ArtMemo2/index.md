@@ -27,7 +27,7 @@
 
 #### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy and take a sneak peek into the minds of curators. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
 
-#### There are, however, an opposite effect.
+#### There is, however, an opposite effect.
 
 #### While the instructional elements will exist more or less in the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. In the analogy of Gothic cathedrals, the painted windows may portray biblical stories and lessons so the illiterate people of the time could easily understand. Yet, hiding behind the democratization is the power-play of what ideas are to be depicted. Who decides?
 
