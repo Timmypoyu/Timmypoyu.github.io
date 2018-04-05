@@ -7,8 +7,10 @@
 #### Like Life is one of the few exhibitions that confuses me upon entrance. Contrary to human’s instinct (or generic conditoining) to enter through the right, the exhibition directs the visitors to the left entrance while maintaining an exiting opening on the right. The elaborate entry way at the left slightly irritated the visitors, dislodging them from their spatial and directional habits. The unintuitive placement of the entrance destabilizes the visitors sense of space, and appropriately introduces them to the section of “The Presumption of white” in which they are encouraged to walk around, and circle the sculptures, viewing the artworks dynamically with a heightened sense of spatial awareness. The same kind of layouts continued throughout the exhibition. With no distinct demarcation or guidance to direct the flow, the visitors have to make conscious decision as to where to proceed. One can start with last or the first piece of a section in which a collection of artworks coherently represent the themes with which the curators have decided.
 
 ### **Problem in Thematic Sectioning: The Role of Museum and of Curators**
+
 > “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” 
 > - Peter Schjeldahl, art critic from the New Yorker. 
+
 
 #### Straddling between creating a popular exhibition endowed with popular artworks and providing, with the use of thematic sectioning, an instructional, educational experience, like life feels confused. While, with the layouts provided, the visitors are encouraged to move freely, the instructional themes forces the visitors to create a preconceived mindset upon viewing the artworks. “The Presumption of White” juxtaposed ancient and modern sculptures that follows the renaissance heritage of whiteness, telling a story of misconstrued artistic tradition of the classical era where sculptures are in fact painted. The curators encourages viewers to think about their social commentary on race and gender, as they presented white sculptures of an Native American and an aging, sagging old woman. Schjeldahl argued further:
 
