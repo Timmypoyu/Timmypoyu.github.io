@@ -8,18 +8,21 @@
 
 ### **Problem in Thematic Sectioning: The Role of Museum and of Curators**
 > “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” 
->                                                                           Peter Schjeldahl from the New Yorker. 
-#### Straddling between creating a popular exhibition endowed with popular artworks and providing, with the use of thematic sectioning, an instructional, educational experience, like life feels confused in its aim. While, with the layouts provided, the visitors are encouraged to move freely, the instructional themes forces the visitors to create a preconceived mindset upon viewing the artworks. “The Presumption of White” juxtaposed ancient and modern sculptures that follows the renaissance heritage of whiteness, telling a story of misconstrued artistic tradition of the classical era where sculptures are in fact painted. The curators encourages viewers to think about their social commentary on race and gender, as they presented white sculptures of an Native American and an aging, sacking old woman. Schjeldahl argued further:
+> - Peter Schjeldahl, art critic from the New Yorker. 
+
+#### Straddling between creating a popular exhibition endowed with popular artworks and providing, with the use of thematic sectioning, an instructional, educational experience, like life feels confused. While, with the layouts provided, the visitors are encouraged to move freely, the instructional themes forces the visitors to create a preconceived mindset upon viewing the artworks. “The Presumption of White” juxtaposed ancient and modern sculptures that follows the renaissance heritage of whiteness, telling a story of misconstrued artistic tradition of the classical era where sculptures are in fact painted. The curators encourages viewers to think about their social commentary on race and gender, as they presented white sculptures of an Native American and an aging, sagging old woman. Schjeldahl argued further:
 
 > I lack both the space and the heart to paraphrase the respective analyses, which for the most part are cogent but feel really on target only for lesser works, which derive their content more from the collective bias of their times and places than from the individual character of their makers. Good art is irreducible to attitudes, and great art demolishes them.
 
-#### There ae indeed a danger within Like life, where these artworks becomes a complacence to its collective theme rather than something of its own nuances and backgrounds. 
+#### There is indeed a possibility of danger in Like life, where these artworks becomes merely complacent existence to their collective theme rather than artworks of their own nuances, and contexts. 
 
-#### However, in designing the exhibition according to these overly instructional themes provided a democratizing effect. Everyone can understand a TED talk and so everyone could understand Life life and the messages it conveys. This conversation awakens the ancient discussion of the Painted Windows of Gothic Churches. They can become a accessible conduit for the public to approach the covert and aristocratic knowledge of religion. At the same time, they might mislead and mis-conveyed these religious ideals. 
+#### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
 
-#### While the instructional elements will exist more or less within the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. 
+#### There are, however a contradicting effect.
 
-#### There are, however a contradicting effect. Underlying Schkeldahl’s eagerness to allow the viewers’ of art a change to experience art in their own terms is, perhaps a firm base of trust and confidence in each and their interpretations. Like Life strives to be easily understood; however, the themes curated underscore an aristocratic power of decision. They are consecrated as the over-arching subject of a collective of distinct artworks, simultaneously making them readily perceivable, and impenetrably over-generalizing and deceiving.  
+#### While the instructional elements will exist more or less in the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. The painted windows may portray biblical stories and lessons so the illiterate people of the time could easily understand. Yet, hiding behind the democratization is the power-play of what ideas are to be depicted. Who decides?
+
+#### Underlying Schkeldahl’s eagerness to allow the viewers of art a chance to experience art in their own terms is, perhaps a firm base of trust and confidence in each and their own interpretations. Like Life strives to be easily understood; however, the themes curated underscore an aristocratic power of decision. They are consecrated as the over-arching subject of a collective of distinct artworks, simultaneously making them readily perceivable, and impenetrably over-generalizing and perhaps deceiving.  
 
 
 
