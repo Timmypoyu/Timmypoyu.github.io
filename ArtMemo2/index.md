@@ -14,7 +14,7 @@
 
 > I lack both the space and the heart to paraphrase the respective analyses, which for the most part are cogent but feel really on target only for lesser works, which derive their content more from the collective bias of their times and places than from the individual character of their makers. Good art is irreducible to attitudes, and great art demolishes them.
 
-#### There is indeed a possibility of danger in Like life, where these artworks becomes merely complacent existence to their collective theme rather than artworks of their own nuances, and contexts. 
+#### There is indeed a possibility of such danger in Like life, where these artworks becomes merely complacent existence to their collective theme rather than artworks of their own nuances, and contexts. 
 
 #### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
 
