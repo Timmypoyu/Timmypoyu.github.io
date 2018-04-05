@@ -6,8 +6,8 @@
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_162454.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Benjamin.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/old%20woman.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" >
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Hercules.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/old%20woman.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Hercules.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 
 ### **The Entrance**
 ![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_164726.jpg?raw=true)
