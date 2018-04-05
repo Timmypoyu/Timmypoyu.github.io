@@ -8,9 +8,7 @@
 
 ### **Problem in Thematic Sectioning: The Role of Museum and of Curators**
 
-> “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” 
-> /-Peter Schjeldahl, art critic from the New Yorker. 
-
+#### “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” wrote Peter Schjeldahl, art critic from the New Yorker. 
 
 #### Straddling between creating a popular exhibition endowed with popular artworks and providing, with the use of thematic sectioning, an instructional, educational experience, like life feels confused. While, with the layouts provided, the visitors are encouraged to move freely, the instructional themes forces the visitors to create a preconceived mindset upon viewing the artworks. “The Presumption of White” juxtaposed ancient and modern sculptures that follows the renaissance heritage of whiteness, telling a story of misconstrued artistic tradition of the classical era where sculptures are in fact painted. The curators encourages viewers to think about their social commentary on race and gender, as they presented white sculptures of an Native American and an aging, sagging old woman. Schjeldahl argued further:
 
@@ -20,7 +18,7 @@
 
 #### However, in designing the exhibition in accordence to what Schjeldahl argued to be overly instructional themes, Like Life provides a democratizing experience, where everyone could enjoy. A layman can understand TED talks and so could s/he understands Life life. This conversation awakens the ancient discussion of the Painted Windows of Gothic cathedrals. They could act as conduit for the public to approach the covert and aristocratic knowledge of religion.
 
-#### There are, however a contradicting effect.
+#### There are, however, an opposite effect.
 
 #### While the instructional elements will exist more or less in the designing of an exhibition, Schjeldahl argues that an exhibition should be more experiential than “hypercharged with sensation and glutted with instruction”. The painted windows may portray biblical stories and lessons so the illiterate people of the time could easily understand. Yet, hiding behind the democratization is the power-play of what ideas are to be depicted. Who decides?
 
