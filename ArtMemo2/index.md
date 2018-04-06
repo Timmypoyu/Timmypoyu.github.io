@@ -17,7 +17,7 @@
 
 ### **Problem in Thematic Sectioning: The Role of Museum and of Curators**
 
-#### “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” wrote Peter Schjeldahl, art critic from the New Yorker. 
+#### “The sculpture exhibition at the Met Breuer is at once scholarly and populist—the curatorial version of a TED talk.” [wrote Peter Schjeldahl, art critic from the New Yorker](https://www.newyorker.com/magazine/2018/04/02/like-life-shows-seven-hundred-years-of-the-body). 
 
 #### Straddling between creating a popular exhibition endowed with popular artworks and providing, with the use of thematic sectioning, an instructional, educational experience, like life feels confused. While, with the layouts provided, the visitors are encouraged to move freely, the instructional themes forces the visitors to create a preconceived mindset upon viewing the artworks. “The Presumption of White” juxtaposed ancient and modern sculptures that follows the renaissance heritage of whiteness, telling a story of misconstrued artistic tradition of the classical era where sculptures are in fact painted. The curators encourages viewers to think about their social commentary on race and gender, as they presented white sculptures of an Native American and an aging, sagging old woman. Schjeldahl argued further:
 
