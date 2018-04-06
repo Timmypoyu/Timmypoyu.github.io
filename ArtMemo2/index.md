@@ -33,7 +33,9 @@
 
 #### Underlying Schkeldahl’s eagerness to allow the viewers of art a chance to experience art in their own terms is, perhaps a firm base of trust and confidence in each and their own interpretations. Like Life strives to be easily understood; however, the themes curated underscore an aristocratic power of decision. They are consecrated as the over-arching subject of a collective of distinct artworks, simultaneously making them readily perceivable, and impenetrably over-generalizing and perhaps deceiving.  
 
-
-
+Related Article: 
+1. [Real, or Too Real? A Dazzling Show Goes the Way of All Flesh](https://www.nytimes.com/2018/03/22/arts/design/like-life-sculpture-review-met-breuer.html)
+2. [The Met looks at the body, stripped of its old ‘whiteness’](https://www.washingtonpost.com/entertainment/museums/the-met-looks-at-the-body-stripped-of-its-old-whiteness/2018/03/21/709c0fa2-2c67-11e8-8ad6-fbc50284fce8_story.html?utm_term=.214bdc9ddc83)
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
+R
