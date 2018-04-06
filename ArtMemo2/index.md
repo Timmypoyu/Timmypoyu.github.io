@@ -6,9 +6,6 @@
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_162454.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Benjamin.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/old%20woman.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Hercules.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
-
 ### **The Entrance**
 ![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_164726.jpg?raw=true)
 #### Like Life is one of the few exhibitions that confuses me upon entrance. Contrary to human’s instinct (or generic conditoining) to enter through the right, the exhibition directs the visitors to the left entrance while maintaining an exiting opening on the right. The elaborate entry way at the left slightly irritated the visitors, dislodging them from their spatial and directional habits. The unintuitive placement of the entrance destabilizes the visitors sense of space, and appropriately introduces them to the section of “The Presumption of white” in which they are encouraged to walk around, and circle the sculptures, viewing the artworks dynamically with a heightened sense of spatial awareness. The same kind of layouts continued throughout the exhibition. With no distinct demarcation or guidance to direct the flow, the visitors have to make conscious decision as to where to proceed. One can start with last or the first piece of a section in which a collection of artworks coherently represent the themes with which the curators have decided.
@@ -36,6 +33,6 @@
 Related Article: 
 1. [Real, or Too Real? A Dazzling Show Goes the Way of All Flesh](https://www.nytimes.com/2018/03/22/arts/design/like-life-sculpture-review-met-breuer.html)
 2. [The Met looks at the body, stripped of its old ‘whiteness’](https://www.washingtonpost.com/entertainment/museums/the-met-looks-at-the-body-stripped-of-its-old-whiteness/2018/03/21/709c0fa2-2c67-11e8-8ad6-fbc50284fce8_story.html?utm_term=.214bdc9ddc83)
+
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
-R
