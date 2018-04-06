@@ -18,6 +18,7 @@
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Artmemo3/hangin.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 <img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Artmemo3/obsolete.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 
+
 #### For Golub, Art is meant to destabilize. Granted, unlike Golub’s thought-out and sophisticated approach, Griffin’s photo largely caters to gaudy sensationalism to intends to create an overtly shocking effect. However, Griffin has successfully destabilized the viewing public, making its viewing experience unendurable. In a year when all mainstream comedy revolved around Trump, Griffin finally crossed the line, making her comedy dangerous to those who expect to have an easy, vacuous laugh.  
 
 #### Unfortunately, Griffin was not ready to receive the public outcry against her. She decried the fact that she is being socially and politically persecuted. If she aimed, as Golub did, to make art unendurable to view, the social opposition, the refractory effect of her having agitated her viewers against herself, would only suggest that she has succeeded. 
