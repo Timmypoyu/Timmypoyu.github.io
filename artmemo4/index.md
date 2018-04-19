@@ -24,5 +24,11 @@
 
 #### The presidential portraits elaborately broke away from the tradition. President Obama, instead of standing upright at the bottom of the staircase as did President Teddy Roosevelt or sitting rather aplomb in an office setting, sit in an ornate wooden chair against a wall teeming of bright green vines. Unlike the traditional evocation of the office of presidency, Wiley turned the focus towards President Obama’s background, his heritage, and his life story. Out of the shrubbery, pokes out a few flowers – “chrysanthemums, official flower of Chicago, jasmine from Obama’s birth state of Hawaii, and blue lilies representing his African heritage”, all of which illuminate president Obama’s various identities, consolidating him as a president whose charisma was largely informed by his background. Yet, the painting is not wholly consisted of appraisal. At times, the flowers vied for the attention of the viewer in the expense of creating diversion from the president. The president looks significantly older and scrawnier than real life, with prominent silver streaks in his hair. Wiley acknowledges the doubled effect Obama’s background has affected his presidency: it burdens, complicates, popularizes him all at once. 
 
+#### RELEVANT ARTICLES:
+1. [What Critics Are Saying About the Obamas’ Official Portraits](http://observer.com/2018/02/critic-reviews-of-obamas-official-portraits-by-kehinde-wiley-amy-sherald/)
+2. [Critics are wrong: Obamas’ presidential portraits a huge success](https://nypost.com/2018/02/21/the-critics-are-wrong-the-obamas-presidential-portraits-are-a-huge-success/)
+3. ['A Game Changer.' How a Painting of President Obama Broke the Rules](http://time.com/5158961/obama-portrait-kehinde-wiley-amy-sherald-interview/)
+4. [How the Obama portraits cheerfully buck the trend of instantly forgettable presidential paintings](http://www.latimes.com/entertainment/arts/la-et-cm-obama-wiley-sherald-20180213-story.html)
+5. [The Obamas’ portraits are not what you’d expect, and that’s why they’re great](https://www.washingtonpost.com/entertainment/museums/obamas-portraits-unveiled-for-americans-presidents-exhibition/2018/02/12/d9f3691a-1000-11e8-8ea1-c1d91fcec3fe_story.html?noredirect=on&utm_term=.d0ed21cebecd)
 - - - -
 [Return to Homepage](https://timmypoyu.github.io)
