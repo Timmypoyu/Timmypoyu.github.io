@@ -6,3 +6,5 @@
 ## 3. [Protest Art: Leon Golub and Kathy Griffin](Timmypoyu.github.io/Artmemo3)
 - - - - 
 ## 4. [Presidential Portrait of Barack Obama](Timmypoyu.github.io/artmemo4)
+- - - - 
+## 5. [Abramovic and Arendt: On the Body](Timmypoyu.github.io/artmemo5)
