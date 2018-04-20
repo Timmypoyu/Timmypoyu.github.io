@@ -8,3 +8,5 @@
 ## 4. [Presidential Portrait of Barack Obama](Timmypoyu.github.io/artmemo4)
 - - - - 
 ## 5. [Abramovic and Arendt: On the Body](Timmypoyu.github.io/artmemo5)
+- - - - 
+## 5. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
