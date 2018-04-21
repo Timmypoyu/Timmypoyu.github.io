@@ -9,4 +9,4 @@
 - - - - 
 ## 5. [Abramovic and Arendt: On the Body](Timmypoyu.github.io/artmemo5)
 - - - - 
-## 5. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
+## 6. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
