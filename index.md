@@ -11,4 +11,4 @@
 - - - - 
 # 6. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
 - - - - 
-# 7. [Marcel Duchamp: On Subversion](Timmypoyu.github.io/artmemo7)
+# 7. [Marcel Duchamp: On Subversion of Art and Social Norm](Timmypoyu.github.io/artmemo7)
