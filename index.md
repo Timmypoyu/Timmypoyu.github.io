@@ -1,4 +1,4 @@
-<link rel="icon"  type="image/png"    href="">
+<link rel="icon"  type="image/png"    href="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/download.jpeg?raw=true">
 ## List of Art Journal Entries
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
 - - - -
