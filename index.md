@@ -10,3 +10,5 @@
 ## 5. [Abramovic and Arendt: On the Body](Timmypoyu.github.io/artmemo5)
 - - - - 
 ## 6. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
+- - - - 
+## 6. [Marcel Duchamp: On Subversion](Timmypoyu.github.io/artmemo7)
