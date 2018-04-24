@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/vjG4gXZAbWRFu/giphy.gif)
+![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
 # List of Art Journal Entries
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
 - - - -
