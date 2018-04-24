@@ -1,5 +1,5 @@
 <head>
-   <link rel="shortcut icon" type="image/x-icon" href="download.jpeg">
+   <link rel="shortcut icon" type="image/x-icon" href="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/download.jpeg?raw=true">
   </head>
 ## List of Art Journal Entries
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
