@@ -2,7 +2,7 @@
 - - - -
 # Protest Art: Kathy Griffin and Leon Golub 
 ![image](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Artmemo3/kathy-griffin-feature.jpg?raw=true)
-#### On March 30, Kathy Griffin uploaded a photo of her holding the U.S. President Donald Trump’s bloodied, decapitated, fake head. The photo incited unanimous opposition across social media and news outlets. Her appearance on CNN’s annual New Year’s Eve broadcast was cancelled. She has since been detained multiple times at the airport (for an upper-class white woman, this is rare). She was on Interpol’s international-criminals list. Unprecedentedly, the Secret Service launched an investigation based on her controversial photo. 
+#### On March 30, Kathy Griffin uploaded a photo of her holding the U.S. President Donald Trump’s bloodied, decapitated, fake head. The photo incited unanimous opposition across social media and news outlets. Her appearance on CNN’s annual New Year’s Eve broadcast was cancelled. She has since been detained multiple times at the airport. She was on Interpol’s international-criminals list. Unprecedentedly, the Secret Service launched an investigation based on her controversial photo. 
 
 #### For once, both left and right of the country came together in denouncing Griffin’s act: the head of the President of the United States is not to be decapitated, even in art. Yet, is it really? 
 ![image2](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Artmemo3/bunch.jpg?raw=true)
