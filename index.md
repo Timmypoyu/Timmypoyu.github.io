@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/gVJKzDaWKSETu/giphy.gif)
+![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
 # List of Art Journal Entries
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
 - - - -
@@ -13,3 +13,4 @@
 # 6. [Call Me By Monet](Timmypoyu.github.io/artmemo6)
 - - - - 
 # 7. [Marcel Duchamp: On Subversion of Art and Social Norm](Timmypoyu.github.io/artmemo7)
+![gif](https://media.giphy.com/media/3o7WIEukLQKNCXLso8/giphy.gif)
