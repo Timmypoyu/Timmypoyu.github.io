@@ -1,5 +1,7 @@
-![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
+# About Me
+
 # List of Art Journal Entries
+![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
 - - - -
 # 2. [Like Life: The Role of Art Museum and Exhibition](Timmypoyu.github.io/ArtMemo2)
