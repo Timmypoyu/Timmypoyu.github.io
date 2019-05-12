@@ -1,7 +1,7 @@
 # Art Journal Entries (Masterpieces of Western Art) 
 
 ![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
-# 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/Arts/ArtMemos1)
+# 1. [David Hockney: Sexuality and Style](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemos1)
 - - - -
 # 2. [Like Life: The Role of Art Museum and Exhibition](Timmypoyu.github.io/Arts/ArtMemo2)
 - - - -
