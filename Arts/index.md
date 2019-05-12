@@ -3,7 +3,7 @@
 ![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
 # 1. [David Hockney: Sexuality and Style](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemos1)
 - - - -
-# 2. [Like Life: The Role of Art Museum and Exhibition](Timmypoyu.github.io/Arts/ArtMemo2)
+# 2. [Like Life: The Role of Art Museum and Exhibition](/Arts/ArtMemo2)
 - - - -
 # 3. [Protest Art: Leon Golub and Kathy Griffin](Timmypoyu.github.io/Arts/Artmemo3)
 - - - - 
