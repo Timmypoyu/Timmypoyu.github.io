@@ -1,7 +1,7 @@
 [Return to Homepage](https://timmypoyu.github.io)
 - - - -
 # David Hockney: Sexuality and Style
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemos1/IMG_Entry.jpg?raw=true)
+![image of painting](/Arts/ArtMemos1/IMG_Entry.jpg?raw=true)
 ###### David Hockney Exhibition in The Metropolitan Museum of Art
 #### The David Hockney exhibition at the MET takes visitors through the life of Hockney, allowing them to witness his drastic transitions in style, medium and subject. From the dark-hued, modernist abstract paintings of his earlier career to the jewel-toned, verdant portrayals of his backyard in Yorkshire, Hockney employs such a wide range of stylistic and narrative approaches that visitors must undergo what seems like a secession of Hegelian epochal breakage as they step from a room of paintings encrusted with thick earthy, colors, chaotic smudges and 2-D human figures, to another filled with paintings that are covered with delicate and thin jewel-toned strokes with repetitive artificial patterns and straight lines. While the paintings’ style substantially changes over his life, Hockney’s playfulness with disjointed perspectives persists throughout. Homoeroticism permeates his work as it transitions from the central thematic moment in his earlier paintings to a strong undertone in the later ones. 
 
