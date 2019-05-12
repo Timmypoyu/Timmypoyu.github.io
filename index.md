@@ -1,5 +1,7 @@
 # About Me
 
+# [Arts (Masterpieces of Western Arts and more)](Timmypoyu.github.io/Arts)
+ 
 # List of Art Journal Entries
 ![gif](https://media.giphy.com/media/HsP07CISLWKoo/giphy.gif)
 # 1. [David Hockney: Sexuality and Style](Timmypoyu.github.io/ArtMemos1)
