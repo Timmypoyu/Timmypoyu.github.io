@@ -1,19 +1,19 @@
 [Return to Homepage](https://timmypoyu.github.io)
 - - - -
 # Like Life: The Role of Art Museum and Exhibition
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Michael%20Jackson.jpg?raw=true)
+![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemo2/Michael%20Jackson.jpg?raw=true)
 ###### Michael Jackson and Bubbles, Jeff Koons, 1988
 #### The Like Life: Sculpture, Color and The Body exhibition at the Met presents many well-known sculptures, including Edgar Degas' *The Little Fourteen-Year-Old Dancer*, Jeff Koon’s *Michael Jackson and Bubbles* and Thomas Southwood and Jacques Talrich's *'Auto-Icon' of Jeremy Bentham*. The exhibition aims to explore the fluctuating duality of life and art, especially how each can trespass the realm of the other. Ranging from the 1300’s to recent years, each sculpture conveys humans’ living experience in a different light. Some, like those of the Renaissance, idealize human figures by presenting well-proportioned and well-defined figures. Others, such as *Self*, a frozen-blood self-portrat by Marc Quinn, sought to embody the suffering, eroding aspects of organic reality. Like Life is separated into eight sections: “The Presumption of White,” “Likeness,” “Desire for Life,” “Proxy Figures,” “Layered Realities,” “Figuring Flesh,” and “Between Life and Art," all of which disregard the chronological constraint of the paintings and instead focus on the sculptures' attributes as they pertain to the elaborate thematic designed by the curators.
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_162454.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Benjamin.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemo2/IMG_20180330_162454.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemo2/Benjamin.jpg?raw=true" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
 ###### Left : Little Fourteen-Year-Old Dancer, Edgar Degas, 1880
 ###### Right: Auto-Icon of Jeremy Bentham, Thmoas Southwood Smith and Jacques Talrich, 1832
 
 
 ### **The Entrance**
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/IMG_20180330_164726.jpg?raw=true)
+![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemo2/IMG_20180330_164726.jpg?raw=true)
 #### Like Life is one of the few exhibitions that have confused me upon entrance. Contrary to instinct (or generic conditioning) to enter through the right, the exhibition directs the visitors to the left while maintaining an exiting opening on the right. The elaborate entry way at the left slightly irritated the visitors, dislodging them from their spatial and directional habits. The unintuitive placement of the entrance destabilizes the visitors sense of space, and appropriately introduces them to the section of “The Presumption of White” in which they are encouraged to walk around, and circle the sculptures, viewing the artworks dynamically with a heightened sense of spatial awareness. The same kind of layouts continued throughout the exhibition. With no distinct demarcation or guidance to direct the flow, the visitors have to make conscious decisions as to where to proceed. One can start with last or the first piece of a section in which a collection of artworks coherently represent the themes with which the curators have decided.
-![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/ArtMemo2/Bachuss.jpg?raw=true)
+![image of painting](https://github.com/Timmypoyu/Timmypoyu.github.io/blob/master/Arts/ArtMemo2/Bachuss.jpg?raw=true)
 ###### The section of *The Presumption of White*
 
 ### **Problem in Thematic Sectioning: The Role of Museum and of Curators**
