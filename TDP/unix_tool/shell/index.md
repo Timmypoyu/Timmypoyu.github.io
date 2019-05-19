@@ -1,15 +1,9 @@
 ### File Management
-#### ls 
-##### To list out all files within current working directory 
-#### cd 
-##### To open a directory
-#### mv 
-##### Move a file to a direcotry, or to change its name  
-#### rm 
-##### remove a file or a direcoty 
-#### mkdir
-##### making a directoy
-
+#### ls: To list out all files within current working directory 
+#### cd: To open a directory
+#### mv: Move a file to a direcotry, or to change its name  
+#### rm: remove a file or a direcoty 
+#### mkdir: creating a directoy
 
 #### Sample Session: 
 ```
@@ -47,7 +41,7 @@ poyu81:temp_dir$ ls -la
 total 0
 drwxrwxrwx 1 poyu81 512 May 19 19:03 ./
 drwxrwxrwx 1 poyu81 512 May 19 19:02 ../
--rwxrwxrwx 2 poyu81   0 May 19 18:51 hihi.txt*
+-rwxrwxrwx 2 poyu81   0 May 19 18:51 hihi.txt*  	  # Notice the hard link count
 -rwxrwxrwx 2 poyu81   0 May 19 18:51 hihi_hard_link.txt*
 poyu81:temp_dir$ ln hihi.txt hihi_hard_link2.txt
 poyu81:temp_dir$ ls -la
