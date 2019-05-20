@@ -1,15 +1,15 @@
 ### File Management
-> `ls`: To list out all files within current working directory
+> `ls` - To list out all files within current working directory
 > 
-> `cd`: To open a directory
+> `cd` - To open a directory
 >
-> `mv`: Move a file to a direcotry, or to change its name
+> `mv` - Move a file to a direcotry, or to change its name
 >  
-> `rm`: remove a file or a direcoty 
+> `rm` - remove a file or a direcoty 
 >
-> `mkdir`: creating a directoy
+> `mkdir` - creating a directoy
 
-#### Sample Session: 
+#### Sample session for common file commands
 ```
 $ clear
 $ vim foobar.txt
@@ -32,7 +32,7 @@ hihi.txt*
 
 ```
 
-#### `ln`: creating hard or sym links
+> `ln` - creating hard or sym links
 
 ```
 temp_dir$ ls
@@ -67,8 +67,9 @@ temp_dir$
 ```
 
 ### NOTE 
-#### `man` command is useful when you forgot what a command does. 
-Try `man ln`
+> `man` command is useful when you forgot what a command does. 
+>
+> Try  `man ln`
 
 ### Process Management 
 #### `ps`: List out all processes 
