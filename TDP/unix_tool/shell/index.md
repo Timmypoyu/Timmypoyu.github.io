@@ -67,21 +67,23 @@ temp_dir$
 ```
 
 ### NOTE 
-> `man` command is useful when you forgot what a command does. 
+> `man`  command is useful when you forgot what a command does. 
 >
 > Try  `man ln`
 
 ### Process Management 
-#### `ps`: List out all processes 
-#### `top`: Show current CPU usage 
-#### `kill`: Send signal to a particular process (specified with PID), use `-l` to list signal names
+> `ps` - List out all processes 
+>
+> `top` - Show current CPU usage 
+>
+> `kill`: Send signal to a particular process (specified with PID), use `-l` to list signal names
  
 ### Running in order, in background
-1. `&` runs process in the background (useful when running server and client), the running program still has terminal as STDOUT 
-2. `;` runs process in order
-3. `&&` runs the latter process if only the previous process exited successfully
+1. `&`  runs process in the background (useful when running server and client), the running program still has terminal as STDOUT 
+2. `;`  runs process in order
+3. `&&`  runs the latter process if only the previous process exited successfully
 
-#### `jobs:`: see all running processes 
+> `jobs:` - see all running processes 
 
 #### Sample Session with `ps` and `top`
 ```
@@ -124,24 +126,28 @@ while True:
 	pass
 ```
 
-##### See `man` page for `kill` to see what other signal you can send to the process. 
-##### For a more in-depth understanding of signaling in the operating system. You can checkout 
+> See `man` page for `kill` to see what other signal you can send to the process. 
+> For a more in-depth understanding of signaling in the operating system. You can checkout 
 `man signal` page and [this brief introduction from Tutorialspoint](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_signals.html).
+
 #### Piping 
-##### There are three streams of input and outp[ut for every process.
+> There are three streams of input and outp[ut for every process.
 1. STDIN (standard in): The program reads input
 2. STDOUT (standard out): The program's first option output 
 3. STDERR (standard error): the program's second option output 
-##### With piping we can redirect the different input/output streams of between processes. 
-##### For example, `x|y` makes the STDOUT of `x` the STDIN of `y`. 
-##### `x>y`, STDOUT of `x` is written to file `y`
-#####  `x2>y`, STDERR of x goes into file `y`
-##### `x<y`, STDIN of x is read from file `y`  
+
+> With piping we can redirect the different input/output streams of between processes. 
+>  For example, `x|y` makes the STDOUT of `x` the STDIN of `y`. 
+> `x>y`, STDOUT of `x` is written to file `y`
+>
+>   `x2>y`, STDERR of x goes into file `y`
+>
+> `x<y`, STDIN of x is read from file `y`  
 
 ### Nifty Commands 
-#### grep: output the lines that matches specified pattern 
-#### tail: out the last part of a file
-#### cat: concatenate file content to STDIN and print it (basically, print file content to STDOUT)  
+> `grep` - output the lines that matches specified pattern 
+> `tail` - out the last part of a file
+> `cat` - concatenate file content to STDIN and print it (basically, print file content to STDOUT)  
 
 #### Sample Session of piping, `grep`, `tail` and `cat`
 ```
@@ -162,9 +168,9 @@ temp_dir$
 ```
 
 ### Shell Script
-#### For loop 
-#### If loop 
-#### Incorporating common commands that we learnt 
-#### Whitespace problem 
-#### Regular expression 
+> For loop 
+> If loop 
+> Incorporating common commands that we learnt 
+> Whitespace problem 
+> Regular expression 
 
