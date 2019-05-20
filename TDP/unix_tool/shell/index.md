@@ -72,7 +72,7 @@ Try `man ln`
 #### top 
 ##### Shgow current CPU usage 
 #### kill 
-##### Send kill signal to a particular process (specified with PID)
+##### Send signal to a particular process (specified with PID), see `man` page for different siganls 
 #### running in order, in background
 ##### `&` runs process in the background (useful when running server and client)  
 ##### `;` runs process in order
@@ -119,22 +119,47 @@ while True:
 	pass
 ```
 
+##### See `man` page for `kill` to see what other signal you can send to the process. 
+##### For a more in-depth understanding of signaling in the operating system. You can checkout 
+`man signal` page and [this brief introduction from Tutorialspoint](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_signals.html).
 #### Piping 
 ##### There are three streams of input and outp[ut for every process.
-##### STDIN (standard in): The program reads input 
-##### STDOUT (standard out): The program's first option output 
-##### STDERR (standard error): the program's second option output 
-##### With piping we can manipulate the different input/output streams of a process. 
+1. STDIN (standard in): The program reads input
+2. STDOUT (standard out): The program's first option output 
+3. STDERR (standard error): the program's second option output 
+##### With piping we can redirect the different input/output streams of between processes. 
+##### For example, `x|y` makes the STDOUT of `x` the STDIN of `y`. 
+##### `x>y`, STDOUT of `x` is written to file `y`
+#####  `x2>y`, STDERR of x goes into file `y`
+##### `x<y`, STDIN of x is read from file `y`  
 
 ### Nifty Commands 
-#### grep 
-#### tail
+#### grep: output the lines that matches specified pattern 
+#### tail: out the last part of a file
+#### cat: concatenate file content to STDIN and print it (basically, print file content to STDOUT)  
+
+#### Sample Session of piping, `grep`, `tail` and `cat`
+```
+poyu81:temp_dir$ cat hihi.txt
+Hello World!
+Hello Taiwanese Data Professional!
+poyu81:temp_dir$ echo Hi, my name is Timmy. I am fine. Thank you and you? >> hihi.txt
+poyu81:temp_dir$ cat hihi.txt
+Hello World!
+Hello Taiwanese Data Professional!
+Hi, my name is Timmy. I am fine. Thank you and you?
+poyu81:temp_dir$ cat hihi.txt | grep Taiwan
+Hello Taiwanese Data Professional!
+poyu81:temp_dir$ tail -n 1 hihi.txt
+Hi, my name is Timmy. I am fine. Thank you and you?
+poyu81:temp_dir$
+
+```
 
 ### Shell Script
 #### For loop 
 #### If loop 
-#### Incorporating common commands trhat we learnt 
+#### Incorporating common commands that we learnt 
 #### Whitespace problem 
 #### Regular expression 
-
 
