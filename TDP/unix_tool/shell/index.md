@@ -111,6 +111,13 @@ poyu81:shell$ sudo kill 533
 [1]+  Terminated              ./infinite_loop.sh
 poyu81:shell$
 ```
+#### infinite_loop.sh runs a python infinte loop 
+```
+#!/usr/bin/python 
+
+while True:
+	pass
+```
 
 #### Piping 
 ##### There are three streams of input and outp[ut for every process.
