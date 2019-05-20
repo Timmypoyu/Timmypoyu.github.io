@@ -138,15 +138,18 @@ while True:
 
 > With piping we can redirect the different input/output streams of between processes. 
 >  For example, `x|y` makes the STDOUT of `x` the STDIN of `y`. 
-> `x>y`, STDOUT of `x` is written to file `y`
 >
->   `x2>y`, STDERR of x goes into file `y`
+> `x>y` - STDOUT of `x` is written to file `y`
 >
-> `x<y`, STDIN of x is read from file `y`  
+>   `x2>y` - STDERR of x goes into file `y`
+>
+> `x<y` - STDIN of x is read from file `y`  
 
 ### Nifty Commands 
 > `grep` - output the lines that matches specified pattern 
+>
 > `tail` - out the last part of a file
+>
 > `cat` - concatenate file content to STDIN and print it (basically, print file content to STDOUT)  
 
 #### Sample Session of piping, `grep`, `tail` and `cat`
