@@ -67,12 +67,10 @@ poyu81:temp_dir$
 Try `man ln`
 
 ### Process Management 
-#### ps 
-##### List out all processes 
-#### top 
-##### Shgow current CPU usage 
-#### kill 
-##### Send signal to a particular process (specified with PID), see `man` page for different siganls 
+#### `ps`: List out all processes 
+#### `top`: Show current CPU usage 
+#### `kill`: Send signal to a particular process (specified with PID), see `man` page for different siganls
+ 
 #### running in order, in background
 ##### `&` runs process in the background (useful when running server and client)  
 ##### `;` runs process in order
