@@ -74,8 +74,43 @@ Try `man ln`
 #### kill 
 ##### Send kill signal to a particular process (specified with PID)
 #### running in order, in background
-##### `&` runs process in the background 
-##### `;` runs process in order 
+##### `&` runs process in the background (useful when running server and client)  
+##### `;` runs process in order
+##### `&&` runs the latter process if only the previous process exited successfully
+
+#### Sample Session with `ps` and `top`
+```
+poyu81:shell$ ps
+  PID TTY          TIME CMD
+    4 tty1     00:00:08 bash
+  458 tty1     00:00:00 ps
+poyu81:shell$ ps -la
+F S   UID   PID  PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+0 S  1000     4     3  0  80   0 -  4615 -      tty1     00:00:08 bash
+0 R  1000   459     4  0  80   0 -  4271 -      tty1     00:00:00 ps
+poyu81:shell$ top
+top - 21:44:52 up 15:48,  0 users,  load average: 0.52, 0.58, 0.59
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.2 us, 12.1 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.3 hi,  0.0 si,  0.0 st
+KiB Mem :  8192044 total,  2444232 free,  5518460 used,   229352 buff/cache
+KiB Swap: 25165824 total, 25089056 free,    76768 used.  2539852 avail Mem
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+  460 poyu81    20   0   17636   2064   1504 R   1.0  0.0   0:00.07 top
+    1 root      20   0    8304    128    100 S   0.0  0.0   0:00.18 init
+    3 root      20   0    8304     96     60 S   0.0  0.0   0:00.00 init
+    4 poyu81    20   0   18460   5040   4928 S   0.0  0.1   0:08.39 bash
+```
+
+#### Sample Session with `kill` and `&`
+
+```
+poyu81:shell$ ./infinite_loop.sh &
+[1] 533
+poyu81:shell$ sudo kill 533
+[1]+  Terminated              ./infinite_loop.sh
+poyu81:shell$
+```
 
 #### Piping 
 ##### There are three streams of input and outp[ut for every process.
