@@ -137,11 +137,13 @@ while True:
 3. STDERR (standard error): the program's second option output 
 
 > With piping we can redirect the different input/output streams of between processes. 
->  For example, `x|y` makes the STDOUT of `x` the STDIN of `y`. 
+> For example, 
+>
+> `x|y` makes the STDOUT of process `x` the STDIN of process `y`. 
 >
 > `x>y` - STDOUT of `x` is written to file `y`
 >
->   `x2>y` - STDERR of x goes into file `y`
+> `x2>y` - STDERR of x goes into file `y`
 >
 > `x<y` - STDIN of x is read from file `y`  
 
