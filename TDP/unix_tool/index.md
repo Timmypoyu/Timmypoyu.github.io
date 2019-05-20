@@ -2,7 +2,7 @@
 
 ### What is a terminal? 
 
-### [Bash shell (Shell Scrip)](Timmypoyu.github.io/TDP/unix_tool/shell/)
+### [Bash shell (Shell Script)](shell/)
 
 ### [Commnand Line Environment](Timmypoyu.github.io/TDP/unix_tool/command/) 
 
