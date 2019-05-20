@@ -7,23 +7,23 @@
 
 #### Sample Session: 
 ```
-poyu81:shell$ clear
-poyu81:shell$ vim foobar.txt
-poyu81:shell$ ls
+$ clear
+$ vim foobar.txt
+$ ls
 foobar.txt*  index.md*
-poyu81:shell$ mkdir temp_dir
-poyu81:shell$ ls
+$ mkdir temp_dir
+$ ls
 foobar.txt*  index.md*  temp_dir/
-poyu81:shell$ cd temp_dir
-poyu81:temp_dir$ cd ..
-poyu81:shell$ mv foobar.txt temp_dir
-poyu81:shell$ ls
+$ cd temp_dir
+temp_dir$ cd ..
+$ mv foobar.txt temp_dir
+$ ls
 index.md*  temp_dir/
-poyu81:shell$ cd temp_dir
-poyu81:temp_dir$ ls
+$ cd temp_dir
+temp_dir$ ls
 foobar.txt*
-poyu81:temp_dir$ mv foobar.txt hihi.txt
-poyu81:temp_dir$ ls
+temp_dir$ mv foobar.txt hihi.txt
+temp_dir$ ls
 hihi.txt*
 
 ```
@@ -31,27 +31,27 @@ hihi.txt*
 #### `ln`: creating hard or sym links
 
 ```
-poyu81:temp_dir$ ls
+temp_dir$ ls
 hihi.txt*
-poyu81:temp_dir$ ln hihi.txt hihi_hard_link.txt
-poyu81:temp_dir$ ls
+temp_dir$ ln hihi.txt hihi_hard_link.txt
+temp_dir$ ls
 hihi.txt*  hihi_hard_link.txt*
-poyu81:temp_dir$ ls -la
+temp_dir$ ls -la
 total 0
 drwxrwxrwx 1 poyu81 512 May 19 19:03 ./
 drwxrwxrwx 1 poyu81 512 May 19 19:02 ../
 -rwxrwxrwx 2 poyu81   0 May 19 18:51 hihi.txt*  	  # Notice the hard link count
 -rwxrwxrwx 2 poyu81   0 May 19 18:51 hihi_hard_link.txt*
-poyu81:temp_dir$ ln hihi.txt hihi_hard_link2.txt
-poyu81:temp_dir$ ls -la
+temp_dir$ ln hihi.txt hihi_hard_link2.txt
+temp_dir$ ls -la
 total 0
 drwxrwxrwx 1 poyu81 512 May 19 19:03 ./
 drwxrwxrwx 1 poyu81 512 May 19 19:02 ../
 -rwxrwxrwx 3 poyu81   0 May 19 18:51 hihi.txt*
 -rwxrwxrwx 3 poyu81   0 May 19 18:51 hihi_hard_link.txt*
 -rwxrwxrwx 3 poyu81   0 May 19 18:51 hihi_hard_link2.txt*
-poyu81:temp_dir$ ln -s hihi.txt hihi_soft_link.txt        # Creating a sym link 
-poyu81:temp_dir$ ls -la
+temp_dir$ ln -s hihi.txt hihi_soft_link.txt        # Creating a sym link 
+temp_dir$ ls -la
 total 0
 drwxrwxrwx 1 poyu81 512 May 19 19:04 ./
 drwxrwxrwx 1 poyu81 512 May 19 19:02 ../
@@ -59,7 +59,7 @@ drwxrwxrwx 1 poyu81 512 May 19 19:02 ../
 -rwxrwxrwx 3 poyu81   0 May 19 18:51 hihi_hard_link.txt*
 -rwxrwxrwx 3 poyu81   0 May 19 18:51 hihi_hard_link2.txt*
 lrwxrwxrwx 1 poyu81   8 May 19 19:04 hihi_soft_link.txt -> hihi.txt*
-poyu81:temp_dir$
+temp_dir$
 ```
 
 ### NOTE 
@@ -69,24 +69,26 @@ Try `man ln`
 ### Process Management 
 #### `ps`: List out all processes 
 #### `top`: Show current CPU usage 
-#### `kill`: Send signal to a particular process (specified with PID), see `man` page for different siganls
+#### `kill`: Send signal to a particular process (specified with PID), use `-l` to list signal names
  
 ### Running in order, in background
-1. `&` runs process in the background (useful when running server and client)  
+1. `&` runs process in the background (useful when running server and client), the running program still has terminal as STDOUT 
 2. `;` runs process in order
 3. `&&` runs the latter process if only the previous process exited successfully
 
+#### `jobs:`: see all running processes 
+
 #### Sample Session with `ps` and `top`
 ```
-poyu81:shell$ ps
+$ ps
   PID TTY          TIME CMD
     4 tty1     00:00:08 bash
   458 tty1     00:00:00 ps
-poyu81:shell$ ps -la
+$ ps -la
 F S   UID   PID  PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
 0 S  1000     4     3  0  80   0 -  4615 -      tty1     00:00:08 bash
 0 R  1000   459     4  0  80   0 -  4271 -      tty1     00:00:00 ps
-poyu81:shell$ top
+$ top
 top - 21:44:52 up 15:48,  0 users,  load average: 0.52, 0.58, 0.59
 Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
 %Cpu(s): 16.2 us, 12.1 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.3 hi,  0.0 si,  0.0 st
@@ -103,11 +105,11 @@ KiB Swap: 25165824 total, 25089056 free,    76768 used.  2539852 avail Mem
 #### Sample Session with `kill` and `&`
 
 ```
-poyu81:shell$ ./infinite_loop.sh &
+$ ./infinite_loop.sh &
 [1] 533
-poyu81:shell$ sudo kill 533
+$ sudo kill 533
 [1]+  Terminated              ./infinite_loop.sh
-poyu81:shell$
+$
 ```
 #### infinite_loop.sh runs a python infinte loop 
 ```
@@ -138,19 +140,19 @@ while True:
 
 #### Sample Session of piping, `grep`, `tail` and `cat`
 ```
-poyu81:temp_dir$ cat hihi.txt
+temp_dir$ cat hihi.txt
 Hello World!
 Hello Taiwanese Data Professional!
-poyu81:temp_dir$ echo Hi, my name is Timmy. I am fine. Thank you and you? >> hihi.txt
-poyu81:temp_dir$ cat hihi.txt
+temp_dir$ echo Hi, my name is Timmy. I am fine. Thank you and you? >> hihi.txt
+temp_dir$ cat hihi.txt
 Hello World!
 Hello Taiwanese Data Professional!
 Hi, my name is Timmy. I am fine. Thank you and you?
-poyu81:temp_dir$ cat hihi.txt | grep Taiwan
+temp_dir$ cat hihi.txt | grep Taiwan
 Hello Taiwanese Data Professional!
-poyu81:temp_dir$ tail -n 1 hihi.txt
+temp_dir$ tail -n 1 hihi.txt
 Hi, my name is Timmy. I am fine. Thank you and you?
-poyu81:temp_dir$
+temp_dir$
 
 ```
 
