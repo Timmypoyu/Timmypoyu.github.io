@@ -1,9 +1,9 @@
 ### File Management
-#### `ls`: To list out all files within current working directory 
-#### `cd`: To open a directory
-#### `mv`: Move a file to a direcotry, or to change its name  
-#### `rm`: remove a file or a direcoty 
-#### `mkdir`: creating a directoy
+> `ls`: To list out all files within current working directory 
+> `cd`: To open a directory
+> `mv`: Move a file to a direcotry, or to change its name  
+> `rm`: remove a file or a direcoty 
+> `mkdir`: creating a directoy
 
 #### Sample Session: 
 ```
