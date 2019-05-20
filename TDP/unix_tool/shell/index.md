@@ -71,10 +71,10 @@ Try `man ln`
 #### `top`: Show current CPU usage 
 #### `kill`: Send signal to a particular process (specified with PID), see `man` page for different siganls
  
-#### running in order, in background
-##### `&` runs process in the background (useful when running server and client)  
-##### `;` runs process in order
-##### `&&` runs the latter process if only the previous process exited successfully
+### Running in order, in background
+1. `&` runs process in the background (useful when running server and client)  
+2. `;` runs process in order
+3. `&&` runs the latter process if only the previous process exited successfully
 
 #### Sample Session with `ps` and `top`
 ```
