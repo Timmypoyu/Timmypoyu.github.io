@@ -229,7 +229,7 @@ for f in $(ls); do if test -d $f; then echo dir $f; fi; done
 > 2. We can add `else`  or `elif`
 > 3. No curly braces, so `fi`  is necessary 
 >
-> `test`  is yet another programm that does checking and comparison (see `man test`)
+> `test`  is yet another programm that does checking and comparison (see `man test` )
 
 ##### **Whitespace Problem** 
 >
