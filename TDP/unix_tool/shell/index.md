@@ -1,3 +1,11 @@
+## Overview of Shell and Scripting 
+1. File Management 
+2. Process Management 
+3. Other Useful Commands 
+4. Scripting   
+
+- - - - 
+
 ### File Management
 > `ls` - To list out all files within current working directory
 > 
@@ -71,6 +79,8 @@ temp_dir$
 >
 > Try  `man ln`
 
+- - - - 
+
 ### Process Management 
 > `ps` - List out all processes 
 >
@@ -78,7 +88,7 @@ temp_dir$
 >
 > `kill`: Send signal to a particular process (specified with PID), use `-l` to list signal names
  
-### Running in order, in background
+##### Running in order, in background
 1. `&`  runs process in the background (useful when running server and client), the running program still has terminal as STDOUT 
 2. `;`  runs process in order
 3. `&&`  runs the latter process if only the previous process exited successfully
@@ -171,6 +181,9 @@ Hi, my name is Timmy. I am fine. Thank you and you?
 temp_dir$
 
 ```
+
+- - - - 
+
 
 ### Shell Script
 > For loop 
