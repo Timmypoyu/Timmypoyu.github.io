@@ -184,11 +184,68 @@ temp_dir$
 
 - - - - 
 
-
 ### Shell Script
-> For loop 
-> If loop 
-> Incorporating common commands that we learnt 
-> Whitespace problem 
+##### For loop
+
+```
+for i in $(seq 1 5); do echo hello; done
+```
+
+> Overall Structure: `for x in list; do BODY; done`
+> 
+> 1. We can see that `;` terminates a command 
+> 2. There are no curly braces in shell, so `done` is necessary 
+> 3. The `list` is split, and then assign to `x`, passed into the `BODY` 
+>
+> Looking at `list`, we see that `$(seq 1 5) means 
+
+```
+for i in 1 2 3 4 5 
+```
+> The splitting used here is called "Whitespace Splitting".
+> We can also use variables, try: 
+```
+foo=bar 
+echo $foo
+```
+> We can also incorporate for loop with variables
+
+```
+for f in $(ls); do echo $f; done
+```
+> There are a few reserved variables when scripting:
+> 1. `$1` to `$9`: arguments to the script
+> 2. `$0` name of the script itself
+> 3. `$#` number of arguments 
+> 4. `$$` process ID of current shell 
+
+##### If loop
+```
+for f in $(ls); do if test -d $f; then echo dir $f; fi; done
+```
+> Overall Structure: `if CONDITION; then CODY; fi  
+>
+> 1. `CONDITION` is a command, returns with exit status 0 upon success 
+> 2. We can add `else` or `elif`
+> 3. No curly braces, so `fi` is necessary 
+>
+> `test` is yet another programm that does checking and comparison (see `man test`)
+
+> **Whitespace Problem** 
+>
+> There are, however, problems with
+```
+for f in $(ls); do if test -d $f; then echo dir $f; fi; done
+```
+> Since scripting is split according to whitespaces, what if a file's name is separared with a whitespace? Can we solve this using `""` ? Such that 
+```
+for f in "$(ls)"
+```
+> Or is it better to use 
+```
+for f in *
+```
+> But then, what is `*` ?
+
 > Regular expression 
 
