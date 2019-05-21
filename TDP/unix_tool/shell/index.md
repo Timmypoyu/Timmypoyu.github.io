@@ -1,4 +1,4 @@
-## Overview of Shell and Scripting 
+# Overview of Shell and Scripting 
 1. File Management 
 2. Process Management 
 3. Other Useful Commands 
@@ -246,5 +246,3 @@ for f in "$(ls)"
 for f in *
 ```
 > But then, what is `*` ? Regular expression can be used in scripting.
-
-
