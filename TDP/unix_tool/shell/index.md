@@ -88,7 +88,7 @@ temp_dir$
 >
 > `kill`: Send signal to a particular process (specified with PID), use `-l` to list signal names
  
-##### Running in order, in background
+##### Running in order, in background (EXTRA)
 1. `&`  runs process in the background (useful when running server and client), the running program still has terminal as STDOUT 
 2. `;`  runs process in order
 3. `&&`  runs the latter process if only the previous process exited successfully
@@ -157,7 +157,7 @@ while True:
 >
 > `x<y` - STDIN of x is read from file `y`  
 
-### Nifty Commands 
+### Common Commands 
 > `grep` - output the lines that matches specified pattern 
 >
 > `tail` - out the last part of a file
@@ -185,7 +185,7 @@ temp_dir$
 - - - - 
 
 ### Shell Script (This section heavily referenced [hacker-tools](https://hacker-tools.github.io/shell/))
-##### For loop
+#### For loop
 
 ```
 for i in $(seq 1 5); do echo hello; done
@@ -219,7 +219,7 @@ for f in $(ls); do echo $f; done
 > 3. `$#`  number of arguments 
 > 4. `$$`  process ID of current shell 
 
-##### If loop
+#### If loop
 ```
 for f in $(ls); do if test -d $f; then echo dir $f; fi; done
 ```
@@ -231,7 +231,7 @@ for f in $(ls); do if test -d $f; then echo dir $f; fi; done
 >
 > `test`  is yet another programm that does checking and comparison (see `man test` )
 
-##### **Whitespace Problem** 
+#### **Whitespace Problem** 
 >
 > There are, however, problems with
 ```
