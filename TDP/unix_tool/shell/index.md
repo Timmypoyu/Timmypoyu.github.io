@@ -184,7 +184,7 @@ temp_dir$
 
 - - - - 
 
-### Shell Script
+### Shell Script (This section heavily referenced [hacker-tools](https://hacker-tools.github.io/shell/))
 ##### For loop
 
 ```
@@ -231,7 +231,7 @@ for f in $(ls); do if test -d $f; then echo dir $f; fi; done
 >
 > `test` is yet another programm that does checking and comparison (see `man test`)
 
-> **Whitespace Problem** 
+##### **Whitespace Problem** 
 >
 > There are, however, problems with
 ```
@@ -241,11 +241,10 @@ for f in $(ls); do if test -d $f; then echo dir $f; fi; done
 ```
 for f in "$(ls)"
 ```
-> Or is it better to use 
+> The above is wrong (Why?). It is probably better to use 
 ```
 for f in *
 ```
-> But then, what is `*` ?
+> But then, what is `*` ? Regular expression can be used in scripting.
 
-> Regular expression 
 
