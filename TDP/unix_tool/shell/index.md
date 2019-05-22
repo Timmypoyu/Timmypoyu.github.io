@@ -6,16 +6,16 @@
 
 - - - - 
 
-### File Management
+## File Management
 > `ls` - To list out all files within current working directory
 > 
 > `cd` - To open a directory
 >
-> `mv` - Move a file to a direcotry, or to change its name
+> `mv` - Move a file to a directory, or to change its name
 >  
-> `rm` - remove a file or a direcoty 
+> `rm` - remove a file or a directory 
 >
-> `mkdir` - creating a directoy
+> `mkdir` - creating a directory
 
 #### Sample session for common file commands
 ```
@@ -75,13 +75,13 @@ temp_dir$
 ```
 
 ### NOTE 
-> `man`  command is useful when you forgot what a command does. 
+> `man`  command is useful when you want to learn more about what a command does. 
 >
 > Try  `man ln`
 
 - - - - 
 
-### Process Management 
+## Process Management 
 > `ps` - List out all processes 
 >
 > `top` - Show current CPU usage 
@@ -184,7 +184,7 @@ temp_dir$
 
 - - - - 
 
-### Shell Script (This section heavily referenced [hacker-tools](https://hacker-tools.github.io/shell/))
+## Shell Script (This section heavily referenced [hacker-tools](https://hacker-tools.github.io/shell/))
 #### For loop
 
 ```
